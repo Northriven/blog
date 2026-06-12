@@ -1,6 +1,7 @@
 ---
 author: HONG
 pubDatetime: 2026-06-11T12:00:00+08:00
+timezone: Asia/Shanghai
 title: 构建高效的 AI Agent（翻译自 Anthropic 工程博客）
 slug: building-effective-agents
 featured: true

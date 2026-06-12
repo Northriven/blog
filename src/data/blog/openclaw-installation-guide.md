@@ -1,6 +1,7 @@
 ---
 author: HONG
 pubDatetime: 2026-03-04T14:28:00+08:00
+timezone: Asia/Shanghai
 title: OpenClaw 完整安装教程（Windows/Linux/macOS）
 slug: openclaw-installation-guide
 featured: false
