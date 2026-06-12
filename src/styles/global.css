@@ -4,12 +4,12 @@
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 :root,
 html[data-theme="light"] {
-  --background: #ffffff;
+  --background: #faf6ed;
   --foreground: #282728;
   --accent: #006cac;
-  --muted: #e6e6e6;
-  --border: #ece9e9;
-  --grid-color: #d1d5db;
+  --muted: #ebe5d8;
+  --border: #006cac;
+  --grid-color: #d6cfbf;
 }
 
 html[data-theme="dark"] {
